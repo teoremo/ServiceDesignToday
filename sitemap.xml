@@ -6,124 +6,127 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.servicedesigntoday.org/</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/download/SDtoday_fullreport.pdf</loc>
-  <lastmod>2016-10-03T22:29:28+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/download/SDtoday_fullreport.pdf</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/about.html</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/about.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results1.html</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results1.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/jamesmoed.html</loc>
-  <lastmod>2016-10-04T12:10:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/jamesmoed.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/joelbailey.html</loc>
-  <lastmod>2016-10-04T12:10:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/joelbailey.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/olishaw.html</loc>
-  <lastmod>2016-10-04T12:10:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/olishaw.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/jasonmesut.html</loc>
-  <lastmod>2016-10-04T12:10:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/jasonmesut.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/evakirchberger.html</loc>
-  <lastmod>2016-10-04T12:10:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/evakirchberger.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/marziaarico.html</loc>
-  <lastmod>2016-10-04T12:10:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/marziaarico.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/jonaspiet.html</loc>
-  <lastmod>2016-10-04T12:10:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/jonaspiet.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/chiaracacciani.html</loc>
-  <lastmod>2016-10-04T12:10:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/chiaracacciani.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/oonaghcomerford.html</loc>
-  <lastmod>2016-10-04T12:10:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/oonaghcomerford.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/dominicburton.html</loc>
-  <lastmod>2016-10-04T12:10:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/dominicburton.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/jenniparker.html</loc>
-  <lastmod>2016-10-04T12:10:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/jenniparker.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/marcellamaltese.html</loc>
-  <lastmod>2016-10-04T12:10:39+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/marcellamaltese.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/interviews/vincenzodimaria.html</loc>
-  <lastmod>2016-10-04T12:10:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/interviews/vincenzodimaria.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/index.html</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/index.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results2.html</loc>
-  <lastmod>2016-10-04T12:10:36+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results2.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results3.html</loc>
-  <lastmod>2016-10-04T12:10:36+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results3.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results4.html</loc>
-  <lastmod>2016-10-04T12:10:34+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results4.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results5.html</loc>
-  <lastmod>2016-10-04T12:10:34+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results5.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/results6.html</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/results6.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.servicedesigntoday.org/resultsconclusions.html</loc>
-  <lastmod>2016-10-04T12:10:35+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>https://www.servicedesigntoday.org/resultsconclusions.html</loc>
+  <lastmod>2022-05-01T12:59:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
